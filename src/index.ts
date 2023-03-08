@@ -1,4 +1,4 @@
 let x:number =10;
 
-x= 2
+x= 20
 console.log(x);
